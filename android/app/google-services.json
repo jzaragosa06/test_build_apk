@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "184891681961",
+    "project_id": "midtermpractice2-238be",
+    "storage_bucket": "midtermpractice2-238be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184891681961:android:e1e329560c98b238634db8",
+        "android_client_info": {
+          "package_name": "com.example.geoevent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yQSWr7hFFSm1Qx2esvPxcAw4ICHd0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184891681961:android:76712e78163a1231634db8",
+        "android_client_info": {
+          "package_name": "com.example.midterm_practice1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yQSWr7hFFSm1Qx2esvPxcAw4ICHd0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184891681961:android:eb466469039857c9634db8",
+        "android_client_info": {
+          "package_name": "com.example.test_build_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yQSWr7hFFSm1Qx2esvPxcAw4ICHd0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
